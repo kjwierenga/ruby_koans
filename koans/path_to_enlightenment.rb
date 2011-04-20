@@ -9,9 +9,9 @@ require 'about_arrays'                # done
 require 'about_array_assignment'      # done
 require 'about_hashes'                # done
 require 'about_strings'               # done
-require 'about_symbols'         # <---- NEXT
-require 'about_regular_expressions'
-require 'about_methods'
+require 'about_symbols'               # done
+require 'about_regular_expressions'   # done
+require 'about_methods'               # <---- NEXT
 require 'about_constants'
 require 'about_control_statements'
 require 'about_true_and_false'
